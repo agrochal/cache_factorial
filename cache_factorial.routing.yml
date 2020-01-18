@@ -1,0 +1,7 @@
+cache_factorial.CacheFactorialForm:
+  path: 'factorial'
+  defaults:
+    _form: '\Drupal\cache_factorial\Form\CacheFactorialForm'
+    _title: 'Calculate factorial'
+  requirements:
+    _permission: 'access content'

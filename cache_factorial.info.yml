@@ -1,0 +1,4 @@
+name: cache_factorial
+description: Module that calculates factorial function using Cache API
+type: module
+core: 8.x
